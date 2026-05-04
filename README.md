@@ -1,4 +1,5 @@
 ## Hi there 👋
+This is my personal account, not my school account
 
 <!--
 **j8hu/j8hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
